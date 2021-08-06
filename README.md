@@ -4,7 +4,7 @@
 
 ## MAKE WITH
 
-- Vanila js
+- Vanilla  js
 
 ### Hi there, I'm Ashikur Zaman - aka [AZ Ashik][facebook] 👋
 
