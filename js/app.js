@@ -89,4 +89,3 @@ removeBtn.addEventListener('click', function () {
     localStorage.clear();
     bookList.innerHTML = '';
 })
-

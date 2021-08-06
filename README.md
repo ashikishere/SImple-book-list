@@ -1,11 +1,10 @@
 # Simple BookList Using Vanila Js with local Storage
 
-![ project-6](./images/applab.png)
+![ project-6](./images/booklist.png)
 
 ## MAKE WITH
 
 - Vanila js
-
 
 ### Hi there, I'm Ashikur Zaman - aka [AZ Ashik][facebook] 👋
 
