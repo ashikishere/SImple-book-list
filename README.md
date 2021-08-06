@@ -1,4 +1,4 @@
-# Simple BookList Using Vanila Js with local Storage
+# Simple BookList Using Vanilla Js with local Storage
 
 ![ project-6](./images/booklist.png)
 
