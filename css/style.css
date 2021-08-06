@@ -1,0 +1,138 @@
+/*
+==============================
+Project Name: simple Book list using vanila js
+Bootstrap version : 5 
+font-awesome version :font awesome 5 pro
+ ===============================
+ */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+  line-height: 24px;
+  font-family: 'Lato', sans-serif;
+  padding: 0px 0px 50px;
+  background-color: #ffff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Lato', sans-serif;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+}
+li {
+  list-style: none;
+}
+
+/* =====MAIN STYLE START HERE====== */
+
+header {
+  width: 100%;
+  padding: 30px 0px;
+  text-align: center;
+}
+
+.title {
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: uppercase;
+  /* #8234FE */
+}
+
+.title .fas {
+  color: #8234fe;
+  margin-right: 10px;
+}
+.title span {
+  color: #8234fe;
+  margin-left: 10px;
+}
+
+#book-form {
+  width: 80%;
+  margin: 0 auto;
+  border: 5px solid #8234fe;
+  padding: 40px;
+}
+
+label {
+  font-size: 20px;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+
+.form-control {
+  margin: 10px 0px 20px;
+  padding: 12px 10px;
+  border-radius: 0px;
+  border: 1px solid #8234fe;
+}
+
+.form-btn {
+  width: 100%;
+  background: #8234fe;
+  color: #fff;
+  font-weight: 600;
+  padding: 12px 0px;
+}
+.table {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.table th {
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #8234fe;
+  text-align: center;
+}
+.table tr {
+  font-size: 16px;
+  font-weight: 500;
+  text-transform: capitalize;
+  color: #00a584;
+  font-weight: 600;
+  text-align: center;
+}
+
+.table tr:nth-of-type(odd) {
+  color: #009aff !important;
+}
+
+.table tfoot button {
+  border-radius: 0;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+#alertbox {
+  margin-top: 20px;
+}
+#alertbox h2 {
+  margin: 5px auto;
+  width: 30%;
+  font-size: 25px;
+  background-color: #dc3545;
+  padding: 10px;
+  color: #ffff;
+  text-transform: capitalize;
+}
+
+#alertbox .alertsuccess {
+  background-color: #04aa6d;
+}
