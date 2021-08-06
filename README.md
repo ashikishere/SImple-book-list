@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I like to code all time🤣
-- 🥅 2021 Goals: Be a word top Front-end web developer 😁
+- 🥅 2021 Goals: Be world top Front-end web developer 😁
 - ⚡ Fun fact: I love to play dota 2
 
 ### Connect with me:
